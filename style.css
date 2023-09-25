@@ -1,0 +1,13 @@
+@import url(styles/header.css);
+@import url(styles/grid.css);
+:root{
+    --cor-de-fundo: #9bedf3;
+    --branco: #ffffff;
+    --amarelo:  #eee99f;
+    --roxo-degrade: 
+    linear-gradient(94.49deg,  #733887 35.48%,  #C75EEB 143.32%);
+
+}
+body{
+        background-color: var(--cor-de-fundo);
+}
